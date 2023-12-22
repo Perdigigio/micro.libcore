@@ -1,0 +1,1 @@
+#include <libcore/graphic/cubemap.hh>
